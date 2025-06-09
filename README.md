@@ -1,0 +1,1 @@
+This project is "Project: Recipes" from The Odin Project, in this project i showcase my knowledge of - file structure, html tags and attributes, links between pages and navigation in the file system. It was easy project, i understood all the tasks, and everything worked as expected, without problems.
