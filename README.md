@@ -1,1 +1,5 @@
 This project is "Project: Recipes" from The Odin Project, in this project i showcase my knowledge of - file structure, html tags and attributes, links between pages and navigation in the file system. It was easy project, i understood all the tasks, and everything worked as expected, without problems.
+
+EDIT:
+
+By following TOP(The Odin Project), there was an assignment, to edit the "Project: Recipes" with new CSS knowledge. So i enjoyed this exercise, first of all it was hard to find an idea how i want my page to look, but then i thought for some basic design, and tried making it real. Everything went smooth, i built some sort of plan how to do it, and executed it successfully! Now i understand how to use CSS and make vision become reality, note for myself is that its CRUCIAL to have a step by step plan, of editing first of all home page from top to bottom, don't rush, slowly think and solve problems step by step, after everything looks like i want, then check everything and optimize, and vuola! Im so happy and excited doing this.
